@@ -20,8 +20,5 @@ Here, you will find a collection of notes and resources on topics such as:
 	- **Machine Learning**: Vital for plotting model performance and diagnostics (e.g., ROC curves, loss functions).
 	- **Web Development**: Plotting is essential for creating interactive visualizations in web apps (using Dash or Flask).
 
-
-
-
 ---
 
